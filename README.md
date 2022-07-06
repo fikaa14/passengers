@@ -1,0 +1,1 @@
+# For email instead of xxx@xxx.xxx a real email address should be entered and password for authentication, its commented now because it would report a error on backend side, I think that some of dependencies got deleted after zipping so if error pops up like “module x is missing” npm i x should fix the problem. Couldn’t figure out the filter for users.
